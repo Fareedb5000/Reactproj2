@@ -14,11 +14,11 @@ function App() {
         
       </GridItem>
       <Show above ="lg">
-        <GridItem area="aside" bg="rgb(254,235,200)">
+        <GridItem area="aside" >
           Aside
         </GridItem>
       </Show>
-      <GridItem area="main" bg="rgb(75,200,195)">
+      <GridItem area="main">
         Main
       </GridItem>
     </Grid>
